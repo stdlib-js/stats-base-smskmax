@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smskmax@deno/mod.js';
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smskmax@v0.1.0-deno/mod.js';
 ```
 
 #### smskmax( N, x, strideX, mask, strideMask )
@@ -170,7 +170,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@deno/mod.js';
-import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smskmax@deno/mod.js';
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smskmax@v0.1.0-deno/mod.js';
 
 var mask;
 var x;
